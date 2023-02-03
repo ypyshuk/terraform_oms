@@ -3,7 +3,7 @@ variable "app_name" {
 }
 
 variable "execution_role_arn" {
-  default = "arn:aws:iam::405002847291:role/ecsTaskExecutionRole"
+  default = "arn:aws:iam::250117035524:role/ecsTaskExecutionRole"
 }
 
 variable "public_subnets" {}
